@@ -1,0 +1,8 @@
+C:\Users\zakariamohammed\Pictures\New folder\prime task\prime task\bin\Debug\prime task.exe.config
+C:\Users\zakariamohammed\Pictures\New folder\prime task\prime task\bin\Debug\prime task.exe
+C:\Users\zakariamohammed\Pictures\New folder\prime task\prime task\bin\Debug\prime task.pdb
+C:\Users\zakariamohammed\Pictures\New folder\prime task\prime task\obj\Debug\prime task.csproj.AssemblyReference.cache
+C:\Users\zakariamohammed\Pictures\New folder\prime task\prime task\obj\Debug\prime task.csproj.SuggestedBindingRedirects.cache
+C:\Users\zakariamohammed\Pictures\New folder\prime task\prime task\obj\Debug\prime task.csproj.CoreCompileInputs.cache
+C:\Users\zakariamohammed\Pictures\New folder\prime task\prime task\obj\Debug\prime task.exe
+C:\Users\zakariamohammed\Pictures\New folder\prime task\prime task\obj\Debug\prime task.pdb
